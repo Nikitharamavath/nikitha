@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:coral;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Education</h1>
+    <br>
+    <br>
+    <style>
+        table,th,td{
+          border:1px solid black;
+          border-collapse:collapse;
+          border-spacing: 30px;
+        }
+    </style>
+    <style>
+        th,td{
+            border-color:brown;border-radius:70%;
+            padding: 15px;
+            color:black;font-family: Arial, Helvetica, sans-serif;font-size: medium;
+        }
+    </style>
+    <table style="width:50%;height:20;">
+        <tr>
+        <th>College</th>
+        <th>Year</th>
+        <th>Percentage</th>
+        </tr>
+        <tr>
+        <td>B.V.Raju Institute Of Technology-Narsapur </td>
+        <td>2019-2023</td>
+        <td>75%</td> 
+        </tr>
+        <tr>
+        <td>Telanagana State Model Junior College-Narsapur</td>
+        <td>2017-2019</td>
+        <td>89%</td>
+        </tr>
+        <tr>
+        <td>Telangana State Model School-Narsapur</td>
+        <td>2016-2017</td>
+        <td>88%</td>
+        </tr>
+    </table>
+</body>
+</html>
